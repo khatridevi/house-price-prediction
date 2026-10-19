@@ -69,11 +69,3 @@ Logs prediction history for record-keeping.
 
 ---
 
-### Steps after pasting:
-1. Save the file in VS Code (`Ctrl + S`).
-2. Open your terminal in `C:\Dotcom\my-first-api\house-price-prediction-api`.
-3. Run these 3 commands:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
